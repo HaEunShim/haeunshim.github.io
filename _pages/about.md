@@ -21,10 +21,6 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
 Hi, I'm a first-year MA student in the Department of Linguistics at Simon Fraser University, Canada. I'm an active member in [LangDev Lab](https://www.sfu.ca/langdev.html) and [Xsyn Lab](https://www.sfu.ca/xsyn.html). 

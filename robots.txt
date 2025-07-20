@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://haeun-shim.github.io/sitemap.xml
+Sitemap: https://haeunshim.github.io/sitemap.xml

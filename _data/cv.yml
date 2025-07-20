@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Ha Eun Shim
     - name: Date of Birth
-      value: 14th March 1879
+      value: 
     - name: Languages
       value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: MA
+      institution: Simon Fraser University, Burnaby, Canada
+      year: 2024 - 2026 (expected)
       description:
         - Description 1.
         - Description 2.

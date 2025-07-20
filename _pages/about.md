@@ -6,7 +6,7 @@ subtitle: <a href='#'>ha_eun_shim</a>. Vancouver, Canada.
 
 profile:
   align: right
-  image: Profile_HaEunShim_2024.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: > 
     <p>555 your office number</p>

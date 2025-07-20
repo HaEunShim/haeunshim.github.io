@@ -37,16 +37,16 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+        },{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2.html";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-ha-eun-is-attending-2025-lsa-summer-institute-at-university-of-oregon",
+          title: 'Ha Eun is attending 2025 LSA Summer Institute at University of Oregon',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',

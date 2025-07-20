@@ -11,22 +11,10 @@ nav_order: 2
 
 <!-- Bibsearch Feature -->
 
+{% include bib_search.liquid %}
 
 <div class="publications">
-  <div style="margin-bottom: 3rem;">  
-  <h2>Journal Articles</h2>
-  {% bibliography -q @*[keywords=JA] %}
-  </div>
-  
-  <div style="margin-bottom: 3rem;">  
-  <h2>Conference Proceedings</h2>
-  {% bibliography -q @*[keywords=CP] %}
-  </div>
-  
-  <div style="margin-bottom: 3rem;">  
-  <h2>Conference Abstracts</h2>
-  {% bibliography -q @*[keywords=CA] %}
-  </div>
-  
-  
+
+{% bibliography %}
+
 </div>

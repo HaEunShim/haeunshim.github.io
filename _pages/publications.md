@@ -10,6 +10,7 @@ nav_order: 2
 <!-- _pages/publications.md -->
 
 <!-- BibTeX search bar -->
+
 {% include bib_search.liquid %}
 
 <div class="publications">

@@ -2,18 +2,18 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Simon Fraser University</a>. Department of Linguistics.
+subtitle: <a href='https://www.sfu.ca/linguistics.html'>Simon Fraser University</a>. Department of Linguistics.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Profile_HaEunShim_2024.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> Email: ha_eun_shim@sfu.ca </p>
-    <p> Office 9223, Robert C. Brown Hall </p>
-    <p> 8888 University Dr., Burnaby, BC, Canada </p>
+    <p> Office 9223, RCB Hall </p>
+    <p> 8888 University Dr. Burnaby, BC, Canada </p>
 
-selected_papers: falsie # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 announcements:

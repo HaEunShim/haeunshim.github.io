@@ -10,7 +10,7 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-cv",
-          title: "cv",
+          title: "CV",
           description: "You can find my CV here (click the pdf icon).",
           section: "Navigation",
           handler: () => {
@@ -24,7 +24,7 @@ ninja.data = [{
             window.location.href = "/teaching/";
           },
         },{id: "nav-news",
-          title: "news",
+          title: "News",
           description: "",
           section: "Navigation",
           handler: () => {

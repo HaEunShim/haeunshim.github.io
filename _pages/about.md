@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://www.sfu.ca/linguistics.html'>Simon Fraser University</a>. Department of Linguistics.
 

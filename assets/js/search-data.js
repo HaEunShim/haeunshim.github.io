@@ -57,16 +57,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "news-i-will-be-presenting-an-oral-talk-at-the-2025-interspeech-rotterdam-netherlands",
-          title: 'I will be presenting an oral talk at the 2025 INTERSPEECH, Rotterdam, Netherlands....',
+          section: "News",},{id: "news-i-will-be-presenting-a-talk-at-interspeech-2025-in-rotterdam-netherlands-slides",
+          title: 'I will be presenting a talk at INTERSPEECH 2025 in Rotterdam, Netherlands! Slides...',
           description: "",
           section: "News",},{
         id: 'social-email',

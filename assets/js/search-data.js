@@ -57,16 +57,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-i-will-be-presenting-a-talk-at-interspeech-2025-in-rotterdam-netherlands-slides",
+            },},{id: "news-i-will-be-presenting-a-talk-at-interspeech-2025-in-rotterdam-netherlands-slides",
           title: 'I will be presenting a talk at INTERSPEECH 2025 in Rotterdam, Netherlands! Slides...',
+          description: "",
+          section: "News",},{id: "news-a-paper-on-korean-ditransitive-structures-will-be-published-in-the-2025-cla-proceedings",
+          title: 'A paper on Korean ditransitive structures will be published in the 2025 CLA...',
           description: "",
           section: "News",},{
         id: 'social-email',

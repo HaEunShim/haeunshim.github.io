@@ -1,14 +1,44 @@
 ---
 layout: default
 ---
-<div class="cv-wrapper" style="max-width:1000px;margin:2rem auto;">
-  <div class="viewer" style="height:90vh;width:100%;">
-    <iframe
-      src="{{ site.baseurl }}/assets/pdf/cv.pdf#view=FitH"
-      width="100%" height="100%" style="border:0" loading="lazy">
-    </iframe>
-  </div>
-  <p class="actions" style="text-align:center;margin-top:0.5rem;">
-    <a href="{{ site.baseurl }}/assets/pdf/cv.pdf" download>Download PDF</a>
-  </p>
+{%- comment -%}
+  Embed-only CV layout.
+  사용법:
+  - 페이지 front matter 에 `cv_pdf:`를 지정(예: cv.pdf 또는 sub/dir/my-cv.pdf)
+  - 지정하지 않으면 기본값 'cv.pdf' 를 사용
+{%- endcomment -%}
+
+{%- assign cv_src = page.cv_pdf | default: 'cv.pdf' -%}
+{%- if cv_src contains '://' -%}
+  {%- assign cv_url = cv_src -%}
+{%- else -%}
+  {%- assign cv_url = cv_src | prepend: 'assets/pdf/' | relative_url -%}
+{%- endif -%}
+
+<div class="post">
+  <header class="post-header">
+    <h1 class="post-title">
+      {{ page.title | default: "CV" }}
+      <a href="{{ cv_url }}" target="_blank" rel="noopener noreferrer" class="float-right">
+        <i class="fa-solid fa-file-pdf"></i>
+      </a>
+    </h1>
+    {% if page.description %}
+      <p class="post-description">{{ page.description }}</p>
+    {% endif %}
+  </header>
+
+  <article>
+    <div class="cv-wrapper" style="max-width:1000px;margin:2rem auto;">
+      <div class="viewer" style="height:90vh;width:100%;">
+        <iframe
+          src="{{ cv_url }}#view=FitH"
+          width="100%" height="100%" style="border:0" loading="lazy">
+        </iframe>
+      </div>
+      <p class="actions" style="text-align:center;margin-top:0.5rem;">
+        <a href="{{ cv_url }}" download>Download PDF</a>
+      </p>
+    </div>
+  </article>
 </div>

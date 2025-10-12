@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-cv",
+  },{id: "nav-publications-and-presentations",
+          title: "Publications and Presentations",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/output/";
+          },
+        },{id: "nav-cv",
           title: "CV",
           description: "You can find my CV here. If the embedded version of my CV does not work, you can download a copy by clicking the pdf icon.",
           section: "Navigation",
@@ -21,7 +28,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/teaching/";
+            window.location.href = "/research/";
           },
         },{id: "nav-news",
           title: "News",

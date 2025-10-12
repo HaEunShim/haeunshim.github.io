@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-output",
+          title: "Output",
+          description: "An asterisk (*) indicates equal contribution.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/output/";
+          },
         },{id: "nav-news",
           title: "News",
           description: "",

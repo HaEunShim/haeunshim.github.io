@@ -17,11 +17,9 @@ More specifically, I'm interested in:
 - Attachment ambiguity in English
 - Restrictive vs. non-restrictive clauses
 
-
 **Extending my research to AI**, I examine how modern AI, particularly Text-to-speech (TTS) models, often fail to produce reliable prosodic cues. I study how naïve human listeners perceive such synthetic speech: what they find acceptable or unnatural, and where and why those perceptions shift. To address these issues, I also work on developing pipelines and datasets aimed at improving prosody in TTS systems. 
 
 - **Publication**: [Shim, Yung, Tuttösí, Kwan, Lim, Wang & Yeung (2025) - Generating Consistent Prosodic Patterns from Open-Source TTS Systems](https://www.isca-archive.org/interspeech_2025/shim25_interspeech.pdf) 
-
 
 **My broader aim** is to better understand how AI models diverge from or converge with human performance in processing ambiguous linguistic inputs, and how humans in turn perceive AI-generated language compared to naturally produced speech. 
 

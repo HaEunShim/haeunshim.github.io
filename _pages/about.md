@@ -31,6 +31,9 @@ Welcome! My name is **Ha Eun**. I'm a second-year M.A. student in the Deparment 
 
 I am a **computational psycholinguist** and **experimental linguist**, with research interests centered on the **prosody-syntax interface**. My primary research interests focus on how acoustic and prosodic cues can help us disambiguate sentence structures and meanings. I investigate how these cues influence the acceptability and processing of ambiguous/complex syntactic constructions. (*See the Research tab for more!*) 
 
-Before joining SFU, I received my B.A. in English Language and Literature from Ewha Womans University in Seoul, South Korea. I worked with [Jinwook Choi](https://medinfolab.snu.ac.kr/member/index.html) in the [Medical Informatics Lab](https://medinfolab.snu.ac.kr/research/) at Seoul National University, gaining hands-on experience on medical NLP projects. Later,I worked with [Sujin Yang](https://agelabewha.wixsite.com/agelab/pi) in the [AGE Lab](https://agelabewha.wixsite.com/agelab) and [Hye-Won Choi](https://www.ewha.ac.kr/ewhaen/academics/liberal-arts-prof.do?mode=view&pId=pqO4TZZAh6W86ebeqe9hhQ%3D%3D) at Ewha, deepening my love for linguistics. 
-
 Outside academia, you’ll likely find me reading comics, café-hopping, or wandering through museums!
+***
+Before joining SFU, I received my B.A. in English Language and Literature from Ewha Womans University in Seoul, South Korea. 
+
+I worked with [Jinwook Choi](https://medinfolab.snu.ac.kr/member/index.html) in the [Medical Informatics Lab](https://medinfolab.snu.ac.kr/research/) at Seoul National University, gaining hands-on experience on medical NLP projects. Later, I worked with [Sujin Yang](https://agelabewha.wixsite.com/agelab/pi) in the [AGE Lab](https://agelabewha.wixsite.com/agelab) and [Hye-Won Choi](https://www.ewha.ac.kr/ewhaen/academics/liberal-arts-prof.do?mode=view&pId=pqO4TZZAh6W86ebeqe9hhQ%3D%3D) at Ewha, deepening my love for linguistics. 
+

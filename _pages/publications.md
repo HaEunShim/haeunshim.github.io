@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /output/
-title: Publications and Presentations
+title: Output
 description: 
 nav: true
 nav_order: 3

@@ -57,7 +57,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-will-be-presenting-a-talk-at-interspeech-2025-in-rotterdam-netherlands-slides",
+            },},{id: "news-i-m-excited-to-attend-the-2025-lsa-summer-institute-at-the-university-of-oregon-and-meet-fellow-linguists",
+          title: 'I’m excited to attend the 2025 LSA summer institute at the University of...',
+          description: "",
+          section: "News",},{id: "news-i-will-be-presenting-a-talk-at-interspeech-2025-in-rotterdam-netherlands-slides",
           title: 'I will be presenting a talk at INTERSPEECH 2025 in Rotterdam, Netherlands! Slides...',
           description: "",
           section: "News",},{id: "news-a-paper-on-korean-ditransitive-structures-will-be-published-in-the-2025-cla-proceedings",

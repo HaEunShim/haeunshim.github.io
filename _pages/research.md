@@ -4,7 +4,7 @@ permalink: /research/
 title: Research
 description: 
 nav: true
-nav_order: 6
+nav_order: 2
 ---
 
 I am a **computational psycholinguist** and **experimental linguist**, with research interests centered on the **prosody-syntax interface**. 

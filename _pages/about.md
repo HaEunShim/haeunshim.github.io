@@ -29,7 +29,7 @@ latest_posts:
 
 Welcome! My name is **Ha Eun**. I'm a second-year M.A. student in the Deparment of Linguistics at Simon Fraser University. I am deeply grateful to be co-advised by [Chung-hye Han](https://www.sfu.ca/people/chunghye.html) and [H. Henny Yeung](https://www.sfu.ca/linguistics/about/people/faculty/yeung.html). I am an active member in the [Xsyn Lab](https://www.sfu.ca/xsyn/People.html), the [LangDev Lab](https://www.sfu.ca/langdev/research/topics.html), and the [LAB Lab](https://www.sfu.ca/lablab/currentprojects.html). 
 
-I am a **computational psycholinguist** and **experimental linguist**, with research interests centered on the **speech technology**, **prosody**, **prosody-syntax interface**. 
+I am a **computational psycholinguist** and **experimental linguist**, with research interests centered on the **speech technology**, **prosody**, and **prosody-syntax interface**. 
 
 My primary research interests focus on how acoustic and prosodic cues can help us disambiguate sentence structures and meanings. I investigate how these cues influence the acceptability and processing of ambiguous/complex syntactic constructions. (*See the Research tab for more!*) 
 

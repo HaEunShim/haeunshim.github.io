@@ -8,9 +8,9 @@ nav_order: 4
 ---
 
 **Publications**
-1. **Ha Eun Shim**\*, Olivia Yung*, Paige Tutosí, Boey Kwan, Angelica Lim, Yue Wang, H. Henny Yeung. (2025). Generating consistent prosodic patterns from open-source TTS systems. In Proceedings of the INTERSPEECH 2025. 5383 – 5387. [[Paper](https://www.isca-archive.org/interspeech_2025/shim25_interspeech.html)] [[Slides]({{ "/assets/pdf/interspeech_2025_shim.pdf" | relative_url }})]
-2. **Ha Eun Shim**, Chung-hye Han. Acceptability of double object construction in Korean ditransitive structures. (To appear). To appear in Proceedings of the 2025 Annual Conference of the Canadian Linguistic Association (CLA).
-3. Sujin Yang, Seouyoung Oh, **Ha Eun Shim**. Prompting with respect: Cultural norms and user experience in LLM interactions. (Submitted). Submitted to Cyberpsychology, Behavior, and Social Networking.
+1. **Ha Eun Shim**, Chung-hye Han. Acceptability of double object construction in Korean ditransitive structures. (2025). To appear in Proceedings of the 2025 Annual Conference of the Canadian Linguistic Association (CLA). [[Paper](https://cla-acl.ca/pdfs/actes-2025/Shim-Han-CLA-2025.pdf)]
+2. **Ha Eun Shim**\*, Olivia Yung*, Paige Tutosí, Boey Kwan, Angelica Lim, Yue Wang, H. Henny Yeung. (2025). Generating consistent prosodic patterns from open-source TTS systems. In Proceedings of the INTERSPEECH 2025. 5383 – 5387. [[Paper](https://www.isca-archive.org/interspeech_2025/shim25_interspeech.html)] [[Slides]({{ "/assets/pdf/interspeech_2025_shim.pdf" | relative_url }})]
+3. Sujin Yang, Seouyoung Oh, **Ha Eun Shim**. Prompting with respect: Cultural norms and user experience in LLM interactions. (In Review). Submitted to Cyberpsychology, Behavior, and Social Networking.
 
 **Work in Progress**
 1. Hye-Won Choi, **Ha Eun Shim**. (Manuscript). The patterns of interjective fillers in elderly Korean speech.

@@ -51,6 +51,9 @@ ninja.data = [{
           section: "News",},{id: "news-a-paper-on-korean-ditransitive-structures-will-be-published-in-the-2025-cla-proceedings",
           title: 'A paper on Korean ditransitive structures will be published in the 2025 CLA...',
           description: "",
+          section: "News",},{id: "news-the-paper-on-the-acceptability-of-double-object-constructions-in-korean-ditransitive-structures-is-out-paper",
+          title: 'The paper on the acceptability of double object constructions in Korean ditransitive structures...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',

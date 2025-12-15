@@ -11,11 +11,12 @@ I am a **computational psycholinguist** and **experimental linguist**, with rese
 
 My primary research interests focus on how acoustic and prosodic cues can help us **disambiguate** syntactic structures and semantic interpretations. I investigate how these cues influence **the acceptability and processing of ambiguous/complex syntactic constructions**. 
 
-More specifically, I'm interested in:
+Currently, I'm interested in:
 - Punctuations
-- Korean ditransitive structures
-- Attachment ambiguity in English
-- Restrictive vs. non-restrictive clauses
+- Korean ditransitive structures (**Publication**: [Shim & Han - Acceptability of Double Object Constructions in Korean Ditransitive Structures](https://cla-acl.ca/pdfs/actes-2025/Shim-Han-CLA-2025.pdf))
+- Restrictive vs. non-restrictive relative clauses
+- Resumptive Pronouns
+- Information Structure (focus) 
 
 **Extending my research to AI**, I examine how modern AI, particularly Text-to-speech (TTS) models, often fail to produce reliable prosodic cues. I study how naïve human listeners perceive such synthetic speech: what they find acceptable or unnatural, and where and why those perceptions shift. To address these issues, I also work on developing pipelines and datasets aimed at improving prosody in TTS systems. 
 

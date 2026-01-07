@@ -29,9 +29,7 @@ latest_posts:
 
 Welcome! My name is **Ha Eun**. I'm a second-year M.A. student in the Deparment of Linguistics at Simon Fraser University. I am deeply grateful to be co-advised by [Chung-hye Han](https://www.sfu.ca/people/chunghye.html) and [H. Henny Yeung](https://www.sfu.ca/linguistics/about/people/faculty/yeung.html). I am an active member in the [Xsyn Lab](https://www.sfu.ca/xsyn/People.html), the [LangDev Lab](https://www.sfu.ca/langdev/research/topics.html), and the [LAB Lab](https://www.sfu.ca/lablab/currentprojects.html). 
 
-I am a **computational psycholinguist** and **experimental linguist**, with research interests centered on the **speech technology**, **prosody**, and **prosody-syntax interface**. 
-
-My primary research interests focus on how acoustic and prosodic cues can help us disambiguate sentence structures and meanings. I investigate how these cues influence the acceptability and processing of ambiguous/complex syntactic constructions. (*See the Research tab for more!*) 
+I am a **computational psycholinguist** and **experimental linguist**, with current research interests centered on the **sentence processing**, **syntax-prosody interface**, and **AI applications**. (*See the Research tab for more!*) 
 
 Outside academia, you’ll likely find me reading comics, café-hopping, or wandering through museums!
 
@@ -39,7 +37,7 @@ Outside academia, you’ll likely find me reading comics, café-hopping, or wand
 
 - Before joining SFU, I received my B.A. in English Language and Literature (Summa Cum Laude) from Ewha Womans University in Seoul, South Korea. 
 
-- I worked with [Jinwook Choi](https://medinfolab.snu.ac.kr/member/index.html) in the [Medical Informatics Lab](https://medinfolab.snu.ac.kr/research/) at in Biomedical Engineering at Seoul National University, gaining hands-on experience on medical NLP projects. 
+- I worked with [Jinwook Choi](https://medinfolab.snu.ac.kr/member/index.html) in the [Medical Informatics Lab](https://medinfolab.snu.ac.kr/research/) at in Biomedical Engineering at Seoul National University, gaining hands-on experience on medical NLP and LLMs-related projects. 
 
 - Later, I worked with [Sujin Yang](https://agelabewha.wixsite.com/agelab/pi) in the [AGE Lab](https://agelabewha.wixsite.com/agelab) in Psychology and [Hye-Won Choi](https://www.ewha.ac.kr/ewhaen/academics/liberal-arts-prof.do?mode=view&pId=pqO4TZZAh6W86ebeqe9hhQ%3D%3D) in Linguistics at Ewha, deepening my love and passion for linguistics. 
 

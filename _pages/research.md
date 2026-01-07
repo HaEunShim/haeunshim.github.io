@@ -9,7 +9,9 @@ nav_order: 2
 
 I am a **computational psycholinguist** and **experimental linguist**, with research interests centered on **sentence processing** and the **syntax-prosody interface**. 
 
-My current research interests focus on how prosodic cues and information structure can help us **disambiguate** syntactic structures. I investigate how they influence **the acceptability and processing of ambiguous/complex syntactic constructions**. As an early-career scholar, my interests are broad but they are all unified by a central goal: understanding how people process ambiguous and complex syntactic structures across written and spoken modalities. 
+My current research interests focus on how prosodic cues and information structure can help us **disambiguate** syntactic structures. I investigate how they influence **the acceptability and processing of ambiguous/complex syntactic constructions**. 
+
+As an early-career scholar, my interests are broad but they are all unified by a central aim: understanding how people process ambiguous and complex syntactic structures across written and spoken modalities. 
 
 Currently, I am working on and am interested in:
 - Korean ditransitive structures (**Publication**: [Shim & Han - Acceptability of Double Object Constructions in Korean Ditransitive Structures](https://cla-acl.ca/pdfs/actes-2025/Shim-Han-CLA-2025.pdf))

@@ -37,7 +37,7 @@ Outside academia, you’ll likely find me reading comics, café-hopping, or wand
 
 - Before joining SFU, I received my B.A. in English Language and Literature (Summa Cum Laude) from Ewha Womans University in Seoul, South Korea. 
 
-- I worked with [Jinwook Choi](https://medinfolab.snu.ac.kr/member/index.html) in the [Medical Informatics Lab](https://medinfolab.snu.ac.kr/research/) at in Biomedical Engineering at Seoul National University, gaining hands-on experience on medical NLP and LLMs-related projects. 
+- I worked with [Jinwook Choi](https://medinfolab.snu.ac.kr/member/index.html) in the [Medical Informatics Lab](https://medinfolab.snu.ac.kr/research/) in the Department of Biomedical Engineering at Seoul National University, gaining hands-on experience on medical NLP and LLMs-related projects. 
 
 - Later, I worked with [Sujin Yang](https://agelabewha.wixsite.com/agelab/pi) in the [AGE Lab](https://agelabewha.wixsite.com/agelab) in Psychology and [Hye-Won Choi](https://www.ewha.ac.kr/ewhaen/academics/liberal-arts-prof.do?mode=view&pId=pqO4TZZAh6W86ebeqe9hhQ%3D%3D) in Linguistics at Ewha, deepening my love and passion for linguistics. 
 

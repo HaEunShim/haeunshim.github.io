@@ -18,6 +18,8 @@ Currently, I am working on and am interested in:
 - Resumptive Pronouns in English 
 - Long distance anaphors in Korean 
 
+---
+
 **My broader aim** is to better understand how AI models, including LLMs and TTS models, diverge from or converge with human performance in processing ambiguous linguistic inputs, and how humans in turn perceive AI-generated language compared to naturally produced utterances. By applying linguistic insights, I seek to deepen our understanding of both human language processing and the limitations of current language technologies.
 
 **Relevant work**: I examine how modern AI, particularly Text-to-speech (TTS) models, often fail to produce reliable prosodic cues. I study how naïve human listeners perceive such synthetic speech: what they find acceptable or unnatural, and where and why those perceptions shift. To address these issues, I also work on developing pipelines and datasets aimed at improving prosody in TTS systems. 

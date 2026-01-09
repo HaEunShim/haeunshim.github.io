@@ -29,7 +29,7 @@ latest_posts:
 
 Welcome! My name is **Ha Eun**. I'm a second-year M.A. student in the Deparment of Linguistics at Simon Fraser University. I am deeply grateful to be co-advised by [Chung-hye Han](https://www.sfu.ca/people/chunghye.html) and [H. Henny Yeung](https://www.sfu.ca/linguistics/about/people/faculty/yeung.html). I am an active member in the [Xsyn Lab](https://www.sfu.ca/xsyn/People.html), the [LangDev Lab](https://www.sfu.ca/langdev/research/topics.html), and the [LAB Lab](https://www.sfu.ca/lablab/currentprojects.html). 
 
-I am a **computational psycholinguist** and **experimental linguist**, with current research interests centered on the **sentence processing**, **prosody-syntax interface**, and **AI applications**. (*See the Research tab for more!*) 
+I am a **computational psycholinguist** and **experimental linguist**, with current research interests centered on **sentence processing**, **the prosody-syntax interface**, and **AI applications**. (*See the Research tab for more!*) 
 
 Outside academia, you’ll likely find me reading comics, café-hopping, or wandering through museums!
 

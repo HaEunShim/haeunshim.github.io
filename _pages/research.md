@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-I am a **computational psycholinguist** and **experimental linguist**, with research interests centered on **sentence processing** and the **prosody-syntax interface**. 
+I am a **computational psycholinguist** and **experimental linguist**, with research interests centered on **sentence processing** and **the prosody-syntax interface**. 
 
 My current research interests focus on how prosodic cues and information structure can help us **disambiguate** syntactic structures. I investigate how they influence **the acceptability and processing of ambiguous/complex syntactic constructions**. As an early-career scholar, my research interests may seem broad, but they are all woven together by a central aim: understanding how people process ambiguous and complex syntactic structures across written and spoken modalities.
 

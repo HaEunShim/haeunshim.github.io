@@ -55,7 +55,7 @@ ninja.data = [{
           title: 'The paper on the acceptability of double object constructions in Korean ditransitive structures...',
           description: "",
           section: "News",},{id: "news-i-successfully-defended-my-ma-thesis-and-completed-my-master-s-program-in-linguistics-i-am-deeply-grateful-to-my-committee-members-dr-chung-hye-han-dr-henny-yeung-dr-keir-moulton-and-dr-ashley-farris-trimble",
-          title: 'I successfully defended my MA thesis and completed my master’s program in Linguistics....',
+          title: 'I successfully defended my MA thesis and completed my master’s program in Linguistics!...',
           description: "",
           section: "News",},{
       id: 'light-theme',

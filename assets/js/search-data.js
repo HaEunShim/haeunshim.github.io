@@ -54,7 +54,7 @@ ninja.data = [{
           section: "News",},{id: "news-the-paper-on-the-acceptability-of-double-object-constructions-in-korean-ditransitive-structures-is-out-paper",
           title: 'The paper on the acceptability of double object constructions in Korean ditransitive structures...',
           description: "",
-          section: "News",},{id: "news-i-successfully-defended-my-ma-thesis-and-completed-my-master-s-program-in-linguistics-i-am-deeply-grateful-to-my-committee-members-dr-chung-hye-han-dr-henny-yeung-dr-keir-moulton-and-dr-ashley-farris-trimble",
+          section: "News",},{id: "news-i-successfully-defended-my-ma-thesis-and-completed-my-master-s-program-in-linguistics-i-am-deeply-grateful-to-my-committee-dr-chung-hye-han-dr-henny-yeung-dr-keir-moulton-and-dr-ashley-farris-trimble",
           title: 'I successfully defended my MA thesis and completed my master’s program in Linguistics!...',
           description: "",
           section: "News",},{

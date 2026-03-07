@@ -57,6 +57,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-successfully-defended-my-ma-thesis-and-completed-my-master-s-program-in-linguistics-i-am-deeply-grateful-to-my-committee-dr-chung-hye-han-dr-henny-yeung-dr-keir-moulton-and-dr-ashley-farris-trimble",
           title: 'I successfully defended my MA thesis and completed my master’s program in Linguistics!...',
           description: "",
+          section: "News",},{id: "news-i-will-be-presenting-an-oral-talk-at-cla-2026-at-the-university-of-calgary-about-language-change-in-korean-ditransitive-structures",
+          title: 'I will be presenting an oral talk at CLA 2026 at the University...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',

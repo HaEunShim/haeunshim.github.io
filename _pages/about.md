@@ -29,13 +29,11 @@ latest_posts:
 
 Welcome! My name is **Ha Eun**. 
 
-I am an incoming Ph.D. student in the [Department of Linguistics at the University of Massachusetts Amherst](https://www.umass.edu/linguistics/). I received my M.A. in Linguistics from [Simon Fraser University](https://www.sfu.ca/linguistics.html) in Canada and B.A. in English Language and Literature from [Ewha Womans University](https://cms.ewha.ac.kr/user/englishe/) (Summa Cum Laude)in South Korea. 
+I am an incoming Ph.D. student in the [Department of Linguistics at the University of Massachusetts Amherst](https://www.umass.edu/linguistics/). 
 
-At SFU, I was co-advised by [Chung-hye Han](https://www.sfu.ca/people/chunghye.html) and [H. Henny Yeung](https://www.sfu.ca/linguistics/about/people/faculty/yeung.html). I am an active member of the [Xsyn Lab](https://www.sfu.ca/xsyn/People.html) and the [LangDev Lab](https://www.sfu.ca/langdev/research/topics.html). 
+I received my M.A. in Linguistics from [Simon Fraser University](https://www.sfu.ca/linguistics.html) in Canada and B.A. in English Language and Literature from [Ewha Womans University](https://cms.ewha.ac.kr/user/englishe/) (Summa Cum Laude) in South Korea. At SFU, I was co-advised by [Chung-hye Han](https://www.sfu.ca/people/chunghye.html) and [H. Henny Yeung](https://www.sfu.ca/linguistics/about/people/faculty/yeung.html). I am an active member of the [Xsyn Lab](https://www.sfu.ca/xsyn/People.html) and the [LangDev Lab](https://www.sfu.ca/langdev/research/topics.html). 
 
-I am a **computational psycholinguist** and **experimental linguist**, with current research interests centered on **sentence processing**, **the prosody-syntax interface**, and **AI applications**. (*See the Research tab for more!*) 
-
-Outside academia, you’ll likely find me reading comics, café-hopping, or wandering through museums!
+I am a **computational psycholinguist** and **experimental linguist**, with current research interests centered on **sentence processing**, **the prosody-syntax interface**, and **AI applications**. (*See the Research tab for more!*) Outside academia, you’ll likely find me reading comics, café-hopping, or wandering through museums!
 
 ---
 

@@ -8,9 +8,9 @@ nav_order: 4
 ---
 
 **Publications**
-1.**Ha Eun Shim**, Paige Tuttösí, Olivia Yung, Ivan Fong, Sara Ng, Angelica Lim, Yue Wang, H. Henny Yueng. (2026). In Proceedings of the INTERSPEECH 2026. [[Paper]({{"/assets/pdf/Paper_3075_Shim_et_al (4).pdf" | relative_url }})] 
-2.**Ha Eun Shim**, The Grammaticality Status of the Double Object Construction in Korean Ditransitive Structures: an Experimental Investigation. (2026). Master's Thesis, Simon Fraser University. [[Paper](https://www.sfu.ca/content/dam/sfu/xsyn/Theses/Thesis_Ha_Eun_FINAL.pdf)]
-3.**Ha Eun Shim**, Chung-hye Han. Acceptability of double object construction in Korean ditransitive structures. (2025). In Proceedings of the 2025 Annual Conference of the Canadian Linguistic Association (CLA). [[Paper](https://cla-acl.ca/pdfs/actes-2025/Shim-Han-CLA-2025.pdf)]
+1. **Ha Eun Shim**, Paige Tuttösí, Olivia Yung, Ivan Fong, Sara Ng, Angelica Lim, Yue Wang, H. Henny Yueng. (2026). In Proceedings of the INTERSPEECH 2026. [[Paper]({{"/assets/pdf/Paper_3075_Shim_et_al (4).pdf" | relative_url }})]
+2. **Ha Eun Shim**, The Grammaticality Status of the Double Object Construction in Korean Ditransitive Structures: an Experimental Investigation. (2026). Master's Thesis, Simon Fraser University. [[Paper](https://www.sfu.ca/content/dam/sfu/xsyn/Theses/Thesis_Ha_Eun_FINAL.pdf)]
+3. **Ha Eun Shim**, Chung-hye Han. Acceptability of double object construction in Korean ditransitive structures. (2025). In Proceedings of the 2025 Annual Conference of the Canadian Linguistic Association (CLA). [[Paper](https://cla-acl.ca/pdfs/actes-2025/Shim-Han-CLA-2025.pdf)]
 4. **Ha Eun Shim**\*, Olivia Yung*, Paige Tuttösí, Boey Kwan, Angelica Lim, Yue Wang, H. Henny Yeung. (2025). Generating consistent prosodic patterns from open-source TTS systems. In Proceedings of the INTERSPEECH 2025. 5383 – 5387. [[Paper](https://www.isca-archive.org/interspeech_2025/shim25_interspeech.html)] [[Slides]({{ "/assets/pdf/interspeech_2025_shim.pdf" | relative_url }})]
 5. Sujin Yang, Seouyoung Oh, **Ha Eun Shim**. Prompting with respect: Cultural norms and user experience in LLM interactions. (In Review). Submitted to Cyberpsychology, Behavior, and Social Networking.
 

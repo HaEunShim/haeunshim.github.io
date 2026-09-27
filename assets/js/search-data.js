@@ -60,6 +60,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-will-be-presenting-an-oral-talk-at-cla-2026-at-the-university-of-calgary-about-language-change-in-korean-ditransitive-structures",
           title: 'I will be presenting an oral talk at CLA 2026 at the University...',
           description: "",
+          section: "News",},{id: "news-i-presented-our-xsyn-paper-on-c-command-and-bound-variable-processing-evidence-from-the-korean-anaphor-caki-at-seoul-international-conference-on-linguistics-sicol",
+          title: 'I presented our Xsyn paper on “C-command and bound variable processing: Evidence from...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',

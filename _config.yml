@@ -7,11 +7,11 @@ first_name: Ha Eun
 middle_name: Hannah
 last_name: Shim
 contact_note: > 
-  Please feel free to contact me by email: ha_eun_shim@sfu.ca
+  Please feel free to contact me by email: haeunshim@umass.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   
 footer_text: >
-  Please feel free to contact me by email: ha_eun_shim@sfu.ca
+  Please feel free to contact me by email: haeunshim@umass.edu
 keywords: # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🥨 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)

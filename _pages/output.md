@@ -9,7 +9,7 @@ nav_order: 4
 
 **Publications**
 1. **Ha Eun Shim**, Paige Tuttösí, Olivia Yung, Ivan Fong, Sara Ng, Angelica Lim, Yue Wang, H. Henny Yeung. (2026). Should Robots Sound more like Machines than like Humans? User Expectations Affect the Perception of Prosody in TTS Voices. In _Proceedings of the INTERSPEECH 2026_. [[Paper]({{"/assets/pdf/Paper_3075_Shim_et_al (4).pdf" | relative_url }})]
-2. Sujin Yang, Seouyoung Oh, **Ha Eun Shim**. (2026). Prompting with respect: Cultural norms and user experience in LLM interactions. _Cyberpsychology, Behavior, and Social Networking_.[[Paper](https://journals.sagepub.com/doi/10.1177/21522715261484255)]
+2. Sujin Yang, Seouyoung Oh, **Ha Eun Shim**. (2026). Prompting with respect: Cultural norms and user experience in LLM interactions. _Cyberpsychology, Behavior, and Social Networking_. [[Paper](https://journals.sagepub.com/doi/10.1177/21522715261484255)]
 3. Paige Tuttösí, Eleonore Ferrier-Barbut, Anais Scipioni, Olivia Yung,  **Ha Eun Shim**, Yue Wang, H. Henny Yeung, Angelica Lim. (2026). Adaptive TTS for smooth social robot interactions: Case studies of applying research to industry applications. In _Proceedings of IEEE RO-MAN 2026_.
 4. **Ha Eun Shim**. (2026). The Grammaticality Status of the Double Object Construction in Korean Ditransitive Structures: an Experimental Investigation. Master's Thesis, Simon Fraser University. [[Paper](https://www.sfu.ca/content/dam/sfu/xsyn/Theses/Thesis_Ha_Eun_FINAL.pdf)]
 5. **Ha Eun Shim**, Chung-hye Han. (2025). Acceptability of double object construction in Korean ditransitive structures. In _Proceedings of the 2025 Annual Conference of the Canadian Linguistic Association (CLA)_. [[Paper](https://cla-acl.ca/pdfs/actes-2025/Shim-Han-CLA-2025.pdf)]

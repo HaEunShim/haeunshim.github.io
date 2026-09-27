@@ -66,6 +66,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-presented-our-xsyn-paper-on-c-command-and-bound-variable-processing-evidence-from-the-korean-anaphor-caki-at-seoul-international-conference-on-linguistics-sicol",
           title: 'I presented our Xsyn paper on “C-command and bound variable processing: Evidence from...',
           description: "",
+          section: "News",},{id: "news-i-am-heading-to-sydney-australia-for-interspeech-2026-i-am-excited-to-share-that-our-paper-is-shortlisted-for-the-isca-best-student-paper-award",
+          title: 'I am heading to Sydney, Australia, for INTERSPEECH 2026! I am excited to...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',

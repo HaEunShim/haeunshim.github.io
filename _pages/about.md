@@ -2,16 +2,16 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.sfu.ca/linguistics.html'>Simon Fraser University</a>. Department of Linguistics.
+subtitle: <a href='https://www.umass.edu/linguistics/'>UMass Amherst</a>. Department of Linguistics.
 
 profile:
   align: right
   image: Profile_HaEunShim_2024.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> Contact: ha_eun_shim@sfu.ca </p>
-    <p> Office 9223, RCB Hall </p>
-    <p> 8888 University Dr. Burnaby, BC, Canada </p>
+    <p> Contact: haeunshim@umass.edu </p>
+    <p> Integrative Learning Center N466 </p>
+    <p> 650 N Pleasant St, Amherst, MA, 01003 USA </p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -29,11 +29,11 @@ latest_posts:
 
 Welcome! My name is **Ha Eun**. 
 
-I am an incoming Ph.D. student in the [Department of Linguistics at the University of Massachusetts Amherst](https://www.umass.edu/linguistics/). 
-
-I received my M.A. in Linguistics from [Simon Fraser University](https://www.sfu.ca/linguistics.html) in Canada and B.A. in English Language and Literature from [Ewha Womans University](https://cms.ewha.ac.kr/user/englishe/) (Summa Cum Laude) in South Korea. At SFU, I was co-advised by [Chung-hye Han](https://www.sfu.ca/people/chunghye.html) and [H. Henny Yeung](https://www.sfu.ca/linguistics/about/people/faculty/yeung.html). I am an active member of the [Xsyn Lab](https://www.sfu.ca/xsyn/People.html) and the [LangDev Lab](https://www.sfu.ca/langdev/research/topics.html). 
+I am a first year Ph.D. student in the [Department of Linguistics at the University of Massachusetts Amherst](https://www.umass.edu/linguistics/). I am a member of [Computational Sentence Processing Lab](https://people.umass.edu/bwdillon/compsentproc.html). 
 
 I am a **computational psycholinguist** and **experimental linguist**, with current research interests centered on **sentence processing**, **the prosody-syntax interface**, and **AI applications**. (*See the Research tab for more!*) Outside academia, you’ll likely find me reading comics, café-hopping, or wandering through museums!
+
+I received my M.A. in Linguistics from [Simon Fraser University](https://www.sfu.ca/linguistics.html) in Canada and B.A. in English Language and Literature from [Ewha Womans University](https://cms.ewha.ac.kr/user/englishe/) (Summa Cum Laude) in South Korea. At SFU, I was co-advised by [Chung-hye Han](https://www.sfu.ca/people/chunghye.html) and [H. Henny Yeung](https://www.sfu.ca/linguistics/about/people/faculty/yeung.html). I am an active member of the [Xsyn Lab](https://www.sfu.ca/xsyn/People.html) and the [LangDev Lab](https://www.sfu.ca/langdev/research/topics.html). 
 
 ---
 

@@ -69,6 +69,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-am-heading-to-sydney-australia-for-interspeech-2026-i-am-excited-to-share-that-our-paper-is-shortlisted-for-the-isca-best-student-paper-award",
           title: 'I am heading to Sydney, Australia, for INTERSPEECH 2026! I am excited to...',
           description: "",
+          section: "News",},{id: "news-our-paper-from-my-undergraduate-lab-is-finally-out-check-out-our-paper-prompting-with-respect-cultural-norms-and-user-experience-in-llm-interactions-here-https-journals-sagepub-com-doi-10-1177-21522715261484255",
+          title: 'Our paper from my undergraduate lab is finally out! Check out our paper,...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',

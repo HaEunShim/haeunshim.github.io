@@ -75,6 +75,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-am-heading-to-sydney-australia-for-interspeech-2026-i-am-excited-to-share-that-our-paper-is-shortlisted-for-the-isca-best-student-paper-award",
           title: 'I am heading to Sydney, Australia, for INTERSPEECH 2026! I am excited to...',
           description: "",
+          section: "News",},{id: "news-this-friday-november-20th-8am-et-i-will-be-giving-an-invited-talk-at-isca-special-interest-group-on-speech-synthesis-synsig-you-can-find-more-information-and-zoom-link-here",
+          title: 'This Friday, November 20th 8am ET, I will be giving an invited talk...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
